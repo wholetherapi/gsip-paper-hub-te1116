@@ -1,0 +1,75 @@
+member_id,full_name,office,expected_format,email
+7339,Tamsin Pemberton,Lab 118,ipynb,tamsin.pemberton@gsip.example.org
+5062,Lorenzo Keller,Lab 217,ipynb,lorenzo.keller@gsip.example.org
+7072,Umar Verhoeven,Remote - Pacific,csv,umar.verhoeven@gsip.example.org
+1943,Emil Verhoeven,East Wing 4A,md,emil.verhoeven@gsip.example.org
+7790,Rhea Xiong,East Wing 4A,md,rhea.xiong@gsip.example.org
+7494,Ulric Lindqvist,South Quad 1C,ipynb,ulric.lindqvist@gsip.example.org
+3263,Jolene Ulyanov,Remote - Pacific,ipynb,jolene.ulyanov@gsip.example.org
+1267,Oscar Ulyanov,West Tower 3D,csv,oscar.ulyanov@gsip.example.org
+8185,Ismael Ivanova,Lab 217,csv,ismael.ivanova@gsip.example.org
+4665,Zara Ivanova,Observatory 5,md,zara.ivanova@gsip.example.org
+4207,Imogen Whitlock,Lab 217,csv,imogen.whitlock@gsip.example.org
+4204,Thalia Larsen,Central Suite 6,md,thalia.larsen@gsip.example.org
+7837,Cyrus Verhoeven,Remote - Europe,md,cyrus.verhoeven@gsip.example.org
+3641,Zara Verhoeven,Remote - Pacific,md,zara.verhoeven@gsip.example.org
+9841,Oscar Lindqvist,North Annex 2B,csv,oscar.lindqvist@gsip.example.org
+2787,Keir Strand,North Annex 2B,ipynb,keir.strand@gsip.example.org
+5190,Freya Ivanova,South Quad 1C,ipynb,freya.ivanova@gsip.example.org
+3121,Nadia Jaramillo,East Wing 4A,md,nadia.jaramillo@gsip.example.org
+8143,Katya Nakamura,South Quad 1C,csv,katya.nakamura@gsip.example.org
+8088,Quentin Waldron,Lab 118,csv,quentin.waldron@gsip.example.org
+3613,Estelle Eskildsen,Central Suite 6,csv,estelle.eskildsen@gsip.example.org
+3026,Tamsin Eriksen,South Quad 1C,md,tamsin.eriksen@gsip.example.org
+4926,Damian Farrow,Remote - Pacific,csv,damian.farrow@gsip.example.org
+9478,Lorenzo Ude,Lab 118,csv,lorenzo.ude@gsip.example.org
+4169,Yara Yildiz,Observatory 5,csv,yara.yildiz@gsip.example.org
+7332,Pavel Petrov,Remote - Europe,csv,pavel.petrov@gsip.example.org
+7426,Emil Lindqvist,South Quad 1C,ipynb,emil.lindqvist@gsip.example.org
+7559,Farid Nakamura,South Quad 1C,ipynb,farid.nakamura@gsip.example.org
+5577,Ismael Delacroix,Observatory 5,csv,ismael.delacroix@gsip.example.org
+2973,Bridget Farrow,Lab 217,csv,bridget.farrow@gsip.example.org
+9672,Noor Zubair,Lab 118,csv,noor.zubair@gsip.example.org
+5772,Imogen Barlow,Remote - Europe,csv,imogen.barlow@gsip.example.org
+2902,Farid Rasmussen,Observatory 5,csv,farid.rasmussen@gsip.example.org
+1954,Wesley Jaramillo,West Tower 3D,csv,wesley.jaramillo@gsip.example.org
+8973,Nadia Waldron,Lab 118,md,nadia.waldron@gsip.example.org
+7799,Freya Takahashi,Lab 118,csv,freya.takahashi@gsip.example.org
+5609,Imogen Eskildsen,Observatory 5,md,imogen.eskildsen@gsip.example.org
+4676,Nadia Drummond,Remote - Europe,md,nadia.drummond@gsip.example.org
+1208,Lucia Sorensen,North Annex 2B,md,lucia.sorensen@gsip.example.org
+4232,Lucia Barlow,West Tower 3D,md,lucia.barlow@gsip.example.org
+3622,Noor Ulyanov,Central Suite 6,ipynb,noor.ulyanov@gsip.example.org
+1608,Bennett Cortez,North Annex 2B,csv,bennett.cortez@gsip.example.org
+9629,Mira Yamada,Central Suite 6,ipynb,mira.yamada@gsip.example.org
+1339,Paloma Yamada,Central Suite 6,md,paloma.yamada@gsip.example.org
+2467,Oriane Delacroix,East Wing 4A,md,oriane.delacroix@gsip.example.org
+6931,Yusuf Kowalski,Remote - Europe,md,yusuf.kowalski@gsip.example.org
+8554,Thalia Delacroix,South Quad 1C,ipynb,thalia.delacroix@gsip.example.org
+4739,Mira Cortez,South Quad 1C,ipynb,mira.cortez@gsip.example.org
+1490,Adeline Toledano,East Wing 4A,md,adeline.toledano@gsip.example.org
+7980,Rosalind Abbott,South Quad 1C,ipynb,rosalind.abbott@gsip.example.org
+9771,Silas Ulyanov,Lab 118,md,silas.ulyanov@gsip.example.org
+8395,Ansel Lindqvist,Central Suite 6,csv,ansel.lindqvist@gsip.example.org
+7712,Hana Pemberton,East Wing 4A,ipynb,hana.pemberton@gsip.example.org
+6256,Wesley Drummond,Remote - Europe,ipynb,wesley.drummond@gsip.example.org
+8723,Camille Abbott,Central Suite 6,md,camille.abbott@gsip.example.org
+9506,Delphine Strand,North Annex 2B,csv,delphine.strand@gsip.example.org
+9253,Damian Ionescu,South Quad 1C,ipynb,damian.ionescu@gsip.example.org
+4096,Farid Ashford,Lab 217,md,farid.ashford@gsip.example.org
+6324,Estelle Reyes,Observatory 5,md,estelle.reyes@gsip.example.org
+9037,Bennett Petrov,Lab 217,ipynb,bennett.petrov@gsip.example.org
+3012,Hana Larsen,Remote - Pacific,csv,hana.larsen@gsip.example.org
+7986,Jasper Keller,North Annex 2B,ipynb,jasper.keller@gsip.example.org
+3959,Zara Toledano,Observatory 5,csv,zara.toledano@gsip.example.org
+7755,Camille Reyes,Central Suite 6,md,camille.reyes@gsip.example.org
+9736,Emil Jansen,Lab 217,md,emil.jansen@gsip.example.org
+3295,Thalia Okafor,Lab 118,md,thalia.okafor@gsip.example.org
+3837,Lorenzo Okafor,South Quad 1C,md,lorenzo.okafor@gsip.example.org
+3539,Vera Ude,East Wing 4A,csv,vera.ude@gsip.example.org
+6634,Zara Eskildsen,North Annex 2B,md,zara.eskildsen@gsip.example.org
+6528,Cyrus Farrow,North Annex 2B,csv,cyrus.farrow@gsip.example.org
+1921,Camille Gillan,Remote - Europe,md,camille.gillan@gsip.example.org
+2548,Jolene Zimmerman,Lab 217,md,jolene.zimmerman@gsip.example.org
+4506,Soren Yamada,West Tower 3D,csv,soren.yamada@gsip.example.org
+9568,Rhea Okafor,Lab 217,csv,rhea.okafor@gsip.example.org

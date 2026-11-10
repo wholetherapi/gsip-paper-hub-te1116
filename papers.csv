@@ -1,0 +1,7 @@
+paper_id,title,lead_author,venue,year,code_repository,code_url
+P-1041,Adaptive Lattice Gauge Solvers for Stiff Field Theories,Camille Moreau,ICPS 2026,2026,code/lattice-gauge-solver,
+P-1042,Bayesian Reconstruction of Chaotic Orbital Trajectories,Silas Brennan,ICPS 2026,2026,code/bayesian-orbit-reconstruction,
+P-1043,Operator-Learning Surrogates for Turbulent Convection,Nadia Okafor,ICPS 2026,2026,code/turbulent-convection-surrogate,
+P-1044,Quasar Signal Forecasting with Adaptive Spectral Kernels,Rosalind Hartley,ICPS 2026,2026,code/quasar-signal-forecasting,
+P-1045,Photon Ring Tomography from Sparse Interferometric Data,Mateo Quintero,ICPS 2026,2026,code/photon-ring-tomography,
+P-1046,Dust Polarization Maps of Protoplanetary Disks,Freya Lindqvist,ICPS 2026,2026,,
