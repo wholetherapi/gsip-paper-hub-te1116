@@ -1,0 +1,692 @@
+{
+  "archive_repository": "gsip-artifact-archive-te1116",
+  "folder_counts": {
+    "docs": 30,
+    "data": 27,
+    "notebooks": 18
+  },
+  "total_files": 75,
+  "people": [
+    {
+      "name": "Tamsin Pemberton",
+      "member_id": "7339",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "docs/tamsin-pemberton-7339.ipynb"
+      ],
+      "status": "misplaced"
+    },
+    {
+      "name": "Lorenzo Keller",
+      "member_id": "5062",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/lorenzo-keller-5062.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Umar Verhoeven",
+      "member_id": "7072",
+      "expected_format": "csv",
+      "found_paths": [
+        "notebooks/umar-verhoeven-7072.csv"
+      ],
+      "status": "misplaced"
+    },
+    {
+      "name": "Emil Verhoeven",
+      "member_id": "1943",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/emil-verhoeven-1943-rev2.md",
+        "docs/emil-verhoeven-1943.md"
+      ],
+      "status": "duplicate"
+    },
+    {
+      "name": "Rhea Xiong",
+      "member_id": "7790",
+      "expected_format": "md",
+      "found_paths": [],
+      "status": "missing"
+    },
+    {
+      "name": "Ulric Lindqvist",
+      "member_id": "7494",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/ulric-lindqvist-7494.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Jolene Ulyanov",
+      "member_id": "3263",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/jolene-ulyanov-3263.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Oscar Ulyanov",
+      "member_id": "1267",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/oscar-ulyanov-1267.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Ismael Ivanova",
+      "member_id": "8185",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/ismael-ivanova-8185.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Zara Ivanova",
+      "member_id": "4665",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/zara-ivanova-4665.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Imogen Whitlock",
+      "member_id": "4207",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/imogen-whitlock-4207.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Thalia Larsen",
+      "member_id": "4204",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/thalia-larsen-4204.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Cyrus Verhoeven",
+      "member_id": "7837",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/cyrus-verhoeven-7837.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Zara Verhoeven",
+      "member_id": "3641",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/zara-verhoeven-3641.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Oscar Lindqvist",
+      "member_id": "9841",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/oscar-lindqvist-9841.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Keir Strand",
+      "member_id": "2787",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/keir-strand-2787.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Freya Ivanova",
+      "member_id": "5190",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/freya-ivanova-5190.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Nadia Jaramillo",
+      "member_id": "3121",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/nadia-jaramillo-3121.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Katya Nakamura",
+      "member_id": "8143",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/katya-nakamura-8143.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Quentin Waldron",
+      "member_id": "8088",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/quentin-waldron-8088.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Estelle Eskildsen",
+      "member_id": "3613",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/estelle-eskildsen-3613.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Tamsin Eriksen",
+      "member_id": "3026",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/tamsin-eriksen-3026.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Damian Farrow",
+      "member_id": "4926",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/damian-farrow-4926.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Lorenzo Ude",
+      "member_id": "9478",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/lorenzo-ude-9478.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Yara Yildiz",
+      "member_id": "4169",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/yara-yildiz-4169.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Pavel Petrov",
+      "member_id": "7332",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/pavel-petrov-7332.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Emil Lindqvist",
+      "member_id": "7426",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/emil-lindqvist-7426.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Farid Nakamura",
+      "member_id": "7559",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/farid-nakamura-7559.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Ismael Delacroix",
+      "member_id": "5577",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/ismael-delacroix-5577.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Bridget Farrow",
+      "member_id": "2973",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/bridget-farrow-2973.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Noor Zubair",
+      "member_id": "9672",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/noor-zubair-9672.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Imogen Barlow",
+      "member_id": "5772",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/imogen-barlow-5772.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Farid Rasmussen",
+      "member_id": "2902",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/farid-rasmussen-2902.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Wesley Jaramillo",
+      "member_id": "1954",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/wesley-jaramillo-1954.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Nadia Waldron",
+      "member_id": "8973",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/nadia-waldron-8973.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Freya Takahashi",
+      "member_id": "7799",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/freya-takahashi-7799.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Imogen Eskildsen",
+      "member_id": "5609",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/imogen-eskildsen-5609.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Nadia Drummond",
+      "member_id": "4676",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/nadia-drummond-4676.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Lucia Sorensen",
+      "member_id": "1208",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/lucia-sorensen-1208.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Lucia Barlow",
+      "member_id": "4232",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/lucia-barlow-4232.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Noor Ulyanov",
+      "member_id": "3622",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/noor-ulyanov-3622.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Bennett Cortez",
+      "member_id": "1608",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/bennett-cortez-1608.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Mira Yamada",
+      "member_id": "9629",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/mira-yamada-9629.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Paloma Yamada",
+      "member_id": "1339",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/paloma-yamada-1339.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Oriane Delacroix",
+      "member_id": "2467",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/oriane-delacroix-2467.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Yusuf Kowalski",
+      "member_id": "6931",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/yusuf-kowalski-6931.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Thalia Delacroix",
+      "member_id": "8554",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/thalia-delacroix-8554.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Mira Cortez",
+      "member_id": "4739",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/mira-cortez-4739.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Adeline Toledano",
+      "member_id": "1490",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/adeline-toledano-1490.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Rosalind Abbott",
+      "member_id": "7980",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/rosalind-abbott-7980.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Silas Ulyanov",
+      "member_id": "9771",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/silas-ulyanov-9771.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Ansel Lindqvist",
+      "member_id": "8395",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/ansel-lindqvist-8395.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Hana Pemberton",
+      "member_id": "7712",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/hana-pemberton-7712.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Wesley Drummond",
+      "member_id": "6256",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/wesley-drummond-6256.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Camille Abbott",
+      "member_id": "8723",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/camille-abbott-8723.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Delphine Strand",
+      "member_id": "9506",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/delphine-strand-9506.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Damian Ionescu",
+      "member_id": "9253",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/damian-ionescu-9253.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Farid Ashford",
+      "member_id": "4096",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/farid-ashford-4096.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Estelle Reyes",
+      "member_id": "6324",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/estelle-reyes-6324.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Bennett Petrov",
+      "member_id": "9037",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/bennett-petrov-9037.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Hana Larsen",
+      "member_id": "3012",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/hana-larsen-3012.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Jasper Keller",
+      "member_id": "7986",
+      "expected_format": "ipynb",
+      "found_paths": [
+        "notebooks/jasper-keller-7986.ipynb"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Zara Toledano",
+      "member_id": "3959",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/zara-toledano-3959.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Camille Reyes",
+      "member_id": "7755",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/camille-reyes-7755.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Emil Jansen",
+      "member_id": "9736",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/emil-jansen-9736.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Thalia Okafor",
+      "member_id": "3295",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/thalia-okafor-3295.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Lorenzo Okafor",
+      "member_id": "3837",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/lorenzo-okafor-3837.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Vera Ude",
+      "member_id": "3539",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/vera-ude-3539.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Zara Eskildsen",
+      "member_id": "6634",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/zara-eskildsen-6634.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Cyrus Farrow",
+      "member_id": "6528",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/cyrus-farrow-6528.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Camille Gillan",
+      "member_id": "1921",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/camille-gillan-1921.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Jolene Zimmerman",
+      "member_id": "2548",
+      "expected_format": "md",
+      "found_paths": [
+        "docs/jolene-zimmerman-2548.md"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Soren Yamada",
+      "member_id": "4506",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/soren-yamada-4506.csv"
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Rhea Okafor",
+      "member_id": "9568",
+      "expected_format": "csv",
+      "found_paths": [
+        "data/rhea-okafor-9568.csv"
+      ],
+      "status": "ok"
+    }
+  ],
+  "missing_people": [
+    "Rhea Xiong"
+  ],
+  "duplicate_people": [
+    "Emil Verhoeven"
+  ],
+  "misplaced_files": [
+    "docs/tamsin-pemberton-7339.ipynb",
+    "notebooks/umar-verhoeven-7072.csv"
+  ],
+  "stray_files": [
+    "legacy_package_2024.csv"
+  ],
+  "unrostered_files": [
+    "docs/priya-raghavan-9017.md"
+  ]
+}
